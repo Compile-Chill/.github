@@ -1,4 +1,9 @@
-name: Continuous Integration
+# This is a starter workflow template for Node.js CI
+#
+# name: Node.js Linter CI
+# description: Run build, format, type checks, and tests with yarn
+
+name: Node.js CI
 
 on:
   pull_request:
