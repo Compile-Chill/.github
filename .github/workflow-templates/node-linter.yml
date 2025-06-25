@@ -2,6 +2,8 @@
 #
 # name: Node.js Linter CI
 # description: Run build, format, type checks, and tests with yarn
+# icon: check-circle
+# color: blue
 
 name: Node.js CI
 
