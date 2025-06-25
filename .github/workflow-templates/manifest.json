@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Node.js CI",
+		"description": "Run build, format, type checks, and tests with yarn",
+		"iconName": "check-circle",
+		"categories": ["ci"],
+		"file": "./node-linter.yml"
+	},
+	{
+		"name": "Label on PR Approval",
+		"description": "Automatically adds an 'approved' label when a PR is approved by reviewers.",
+		"iconName": "tag",
+		"categories": ["automation"],
+		"file": "./label-on-approval.yml"
+	}
+]
